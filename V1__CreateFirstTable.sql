@@ -1,0 +1,5 @@
+CREATE TABLE first (
+	id INT PRIMARY KEY,
+	name NVARCHAR(200)
+	)
+	
